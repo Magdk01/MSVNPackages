@@ -4,3 +4,9 @@ This is a simple cluster of all the python functions and methods used repeatably
 collected in a package for easier use.
 
 For use cases and documentation read the code :)
+
+To install:
+1. Navigate to the project folder 
+2. Open Terminal at the directory
+3. Activate environment where the package is wanted
+4. Run $ pip install .
