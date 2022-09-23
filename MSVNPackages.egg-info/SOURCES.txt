@@ -1,0 +1,13 @@
+LICENSE
+README
+setup.cfg
+setup.py
+MSVNPackages/Algo.py
+MSVNPackages/NumAlg.py
+MSVNPackages/__init__.py
+MSVNPackages.egg-info/PKG-INFO
+MSVNPackages.egg-info/SOURCES.txt
+MSVNPackages.egg-info/dependency_links.txt
+MSVNPackages.egg-info/not-zip-safe
+MSVNPackages.egg-info/requires.txt
+MSVNPackages.egg-info/top_level.txt
